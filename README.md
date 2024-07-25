@@ -29,9 +29,23 @@ For the server-side (back-end), I employed Java with the Spring Boot framework, 
 
 Data storage was handled using a relational database (PostgreSQL).
 
+### Getting started
+
+To set up the project locally, follow these steps:
+```
+1. Clone the repository
+2. Set up the backend using Java and Spring Boot
+3. Set up the frontend using Angular
+4. Configure the database using pgAdmin
+```
+
+Please enter the following command in the Command Prompt to run the Angular application with SSL:
+```
+ng serve --ssl
+```
 ### Project specification
 
-[Specifikacija projekta BSEP 2024.pdf](https://github.com/user-attachments/files/16378414/Specifikacija.projekta.BSEP.2024.pdf)
+[Project specification (Serbian version) 2024.pdf](https://github.com/user-attachments/files/16378414/Specifikacija.projekta.BSEP.2024.pdf)
 
 ### Authors
 Contributors to this project:
