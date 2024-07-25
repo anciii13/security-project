@@ -32,3 +32,9 @@ Data storage was handled using a relational database (PostgreSQL).
 ### Project specification
 
 [Specifikacija projekta BSEP 2024.pdf](https://github.com/user-attachments/files/16378414/Specifikacija.projekta.BSEP.2024.pdf)
+
+### Authors
+Contributors to this project:
+- Ana Radovanović
+- Kristina Zelić
+- Milica Petrović
