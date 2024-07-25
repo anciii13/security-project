@@ -17,7 +17,7 @@ This application addresses some of the security problems, and the key features I
 
 ### Technologies
 
-In this project, I utilized technologies with which I am most familiar to effectively tackle new security challenges.
+In this project, my colleagues and I utilized technologies with which we are most familiar to effectively tackle new security challenges.
 
 - ***Server platform***: Java + Spring Boot
 
@@ -25,7 +25,7 @@ In this project, I utilized technologies with which I am most familiar to effect
 
 - ***Database***: Relational Database (PostgreSQL)
 
-For the server-side (back-end), I employed Java with the Spring Boot framework, while for the client-side (front-end), I used TypeScript, HTML, and CSS within the Angular framework.
+For the server-side (back-end), we employed Java with the Spring Boot framework, while for the client-side (front-end), we used TypeScript, HTML, and CSS within the Angular framework.
 
 Data storage was handled using a relational database (PostgreSQL).
 
