@@ -47,8 +47,7 @@ ng serve --ssl
 
 [Project specification (Serbian version) 2024.pdf](https://github.com/user-attachments/files/16378414/Specifikacija.projekta.BSEP.2024.pdf)
 
-### Authors
-Contributors to this project:
+### Contributors
 - Ana Radovanović
 - Kristina Zelić
 - Milica Petrović
